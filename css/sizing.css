@@ -1,0 +1,69 @@
+.w-30 {
+  width: 30%;
+}
+.w-40 {
+  width: 40%;
+}
+.w-50 {
+  width: 50%;
+}
+.w-60 {
+  width: 60%;
+}
+.w-70 {
+  width: 70%;
+}
+.w-100 {
+  width: 100%;
+}
+.h-100 {
+  height: 100%;
+}
+.p-0 {
+  padding: 0;
+}
+.p-1 {
+  padding: 1em;
+}
+.p-2 {
+  padding: 2em;
+}
+.pr-5 {
+  padding-right: 5em;
+}
+.pl-1 {
+  padding-left: 1em;
+}
+.px-1 {
+  padding: 0 1em;
+}
+.px-2 {
+  padding: 0 2em;
+}
+.py-1 {
+  padding: 1em 0;
+}
+.py-2 {
+  padding: 2em 0;
+}
+.m-0 {
+  margin: 0;
+}
+.mr-0 {
+  margin-right: 0;
+}
+.mr-2 {
+  margin-right: 2em;
+}
+.ml-1 {
+  margin-left: 1em;
+}
+.ml-2 {
+  margin-left: 2em;
+}
+.mt-1 {
+  margin-top: 1em;
+}
+.my-2 {
+  margin: 2em 0;
+}
